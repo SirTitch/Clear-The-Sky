@@ -1,0 +1,331 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment 1.vcxproj, Assignment 2.vcxproj, HonsGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Box.cpp
+  BoxLid.cpp
+  Main.cpp
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(309): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(310): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(311): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(328): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(345): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(431): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(433): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(472): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(487): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(489): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(490): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(491): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(497): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(498): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(499): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(518): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(519): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(520): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(537): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(550): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(551): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(552): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(564): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(565): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(566): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(577): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(584): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(605): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(606): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(607): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(788): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(790): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(822): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(824): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(911): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(913): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(973): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(974): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(974): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(974): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(974): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(975): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(975): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(975): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(975): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(978): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(984): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(984): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(987): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(997): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(997): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(998): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1038): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1039): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1040): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1086): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1087): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1088): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1135): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1136): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1137): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1161): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1162): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1163): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1215): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1216): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1217): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1312): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1566): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1567): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1568): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1683): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1684): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1685): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1724): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1725): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1726): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1737): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1739): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1751): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1752): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1753): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\main.cpp(1754): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  particleSys.cpp
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\particlesys.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\particlesys.cpp(82): warning C4101: 'e': unreferenced local variable
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\particlesys.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\particlesys.cpp(160): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=int
+          ]
+  Skybox.cpp
+  terrainObj.cpp
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\terrainobj.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\terrainobj.cpp(387): warning C4018: '<': signed/unsigned mismatch
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\terrainobj.cpp(413): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\terrainobj.cpp(414): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\terrainobj.cpp(415): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\terrainobj.cpp(444): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\terrainobj.cpp(445): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\terrainobj.cpp(453): warning C4018: '<': signed/unsigned mismatch
+  tiny_loader_texture.cpp
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\tiny_loader_texture.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\mitch\desktop\codework\clear the sky\clear the sky\tiny_loader_texture.cpp(160): warning C4101: 'e': unreferenced local variable
+  tiny_obj_loader.cc
+  wrapper_glfw.cpp
+  Generating Code...
+  SOIL.lib(SOIL.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\SOIL.pdb'; linking object as if no debug info
+glfw3D.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(context.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(init.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(input.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(monitor.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(vulkan.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(window.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_init.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_joystick.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_monitor.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_time.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_tls.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_window.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(wgl_context.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(egl_context.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glfw.pdb'; linking object as if no debug info
+glloadD.lib(gl_load.obj) : warning LNK4099: PDB 'glloadD.pdb' was not found with 'glloadD.lib(gl_load.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glloadD.pdb'; linking object as if no debug info
+glloadD.lib(gl_load_cpp.obj) : warning LNK4099: PDB 'glloadD.pdb' was not found with 'glloadD.lib(gl_load_cpp.obj)' or at 'C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\glloadD.pdb'; linking object as if no debug info
+  Clear The Sky.vcxproj -> C:\Users\mitch\Desktop\CodeWork\Clear The Sky\Clear The Sky\Debug\Clear The Sky.exe
